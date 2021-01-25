@@ -1,8 +1,6 @@
-package Assignment2;
-
 /**
-* ASSIGNMENT 2 - ITEC 2610 M
-* @author 		Anh P. Trinh	-	215 955 560
+*
+* @author Anh Trinh
 * 
 * Viewer class: main method
 * 		Responsible for creating the frame and displaying	
